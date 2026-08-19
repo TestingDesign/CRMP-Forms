@@ -2,7 +2,7 @@
   "name": "forms",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://figmadesign.github.io/CRMP-Forms/",
+  "homepage": "https://testingdesign.github.io/CRMP-Forms/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
