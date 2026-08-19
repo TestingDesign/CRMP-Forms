@@ -2,13 +2,13 @@
   "name": "forms",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://onemanwithoneserver.github.io/CRMP-Forms/",
+  "homepage": "https://figmadesign.github.io/CRMP-Forms/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -b gh-pages1"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.0.0",
